@@ -1,0 +1,153 @@
+
+fieldset#fieldtipo {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    max-width: 157px;
+    max-height: 150px;
+    min-width: 80px;
+    min-height: 60px;
+    margin-left: 80px;
+    margin-top: 30px;
+    border-radius: 10px;
+    font-size: 12pt;
+}
+
+table#tabela1 {
+    max-width: 475px;
+    max-height: 138px;
+    min-width: 475px;
+    min-height: 138px;
+    margin-bottom: -10px; 
+}
+
+
+div#DIV {
+    background-color: #FFFFFF;
+    max-width: 480px;
+    max-height: 95px;
+    min-width: 480px;
+    min-height: 95px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: -15px;
+    font-size: 12pt;
+}
+
+form#form1 {
+    padding: 4px;
+    border: 1px solid #000000;
+    border-bottom-right-radius: 35px 15px;
+}
+
+input#Camponome {
+    min-width: 350px;
+    max-width: 380px;
+    border: none;
+    border-bottom: 1px solid #000000;
+}
+
+input#Campocpf {
+    min-width: 20px;
+    max-width: 140px;
+    border: none;
+    border-bottom: 1px solid #000000;
+    margin-top: 2px;
+}
+
+input#Campoend {
+    min-width: 323px;
+    max-width: 350px;
+    border: none;
+    border-bottom: 1px solid #000000;
+    margin-top: 2px;
+}
+
+input#Campodata {
+    min-width: 75px;
+    max-width: 130px;
+    border: none;
+    border-bottom: 1px solid #000000;
+    margin-top: 2px;
+    text-align: center;
+}
+
+input#Campotel {
+    min-width: 90px;
+    max-width: 100px;
+    border: none;
+    border-bottom: 1px solid #000000;
+    margin-top: 2px;
+}
+
+input#Campocidade {
+    min-width: 100px;
+    max-width: 119px;
+    border: none;
+    border-bottom: 1px solid #000000;
+    margin-top: 2px;
+}
+
+table#tabela2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12pt;
+    border-collapse: collapse;
+    width: 475px;
+    padding: 2px;
+}
+
+div#tab2 {
+    border: 1px solid #000000;
+    border-top-right-radius: 35px 15px;
+    width: 477px;
+    min-width: 477px;
+    max-width: 477px;
+}
+
+
+input.qtd {
+    min-width: 30px;
+    max-width: 30px;
+    border: 1px solid #a8a8a8;
+    text-align: center;
+    padding: 4px;
+}
+
+input.desc {
+    min-width: 330px;
+    max-width: 330px;
+    border: 1px solid #A8A8A8;
+    text-align: left;
+    padding: 4px;
+}
+
+input.val {
+    min-width: 80px;
+    max-width: 80px;
+    border: 1px solid #A8A8A8;
+    text-align: center;
+    padding: 4px;
+}
+
+
+td#qtd {
+    min-width: 30px;
+    max-width: 30px;
+}
+
+td#desc {
+    min-width: 330px;
+    max-width: 330px;
+    text-align: right;
+}
+
+td#val {
+    min-width: 80px;
+    max-width: 80px;
+    text-align: center;
+}
+
+a.total {
+    text-align: center;
+    font-size: 14pt;
+    font-family:'Courier New', Courier, monospace;
+
+}
+
